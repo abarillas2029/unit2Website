@@ -1,0 +1,70 @@
+body {
+  background: #ffe3e3;
+
+}
+
+
+/* Code for the Paragraphs on the pages */
+p{
+  color: #6d4320;
+  font-size: 40px;
+  font-family: 'Bacasime Antique';
+  background-color: white;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 30px;
+}
+/* -------------------------------------------- */
+
+
+/* Code for the Heading at the top of the pages */
+.heading{
+  font-family: 'Arapey';
+  font-size: 90px;
+  text-align: center;
+  color: 	#492201; 
+}
+/* -------------------------------------------- */
+
+
+
+/* Code for the Images */
+img{ width: 200px;
+float: left;
+margin-right: 20px;
+border-radius: 20px;
+}
+/* -------------------------------------------- */
+
+
+
+h1{
+  font-family: 'Arapey';
+  font-size: 40px;
+  color: 	#492201; 
+}
+
+
+.information{
+  color: #6d4320;
+  font-size: 8px;
+  font-family: 'Bacasime Antique';
+  background-color: white;
+  border-radius: 5px;
+  margin: 10px;
+  align-content: center;
+}
+/* -------------------------------------------- */
+.home-images{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+
+
+
+

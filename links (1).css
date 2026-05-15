@@ -1,0 +1,27 @@
+/* Code for the Links at the top if the pages */
+ul li{
+  float: left; 
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: white;
+}
+ul li a {
+  display: block;
+  color: pink;
+  align-content: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 40px;
+}
+/* -------------------------------------------- */
+
+.links{
+  color: #6d4320;
+  font-size: 30px;
+
+  
+}
+
